@@ -2,7 +2,7 @@
 I am Ashish
 
 [![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://about.me/ashishsingh4u/)](https://about.me/ashishsingh4u/) 
-[![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-white?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/story/ashishsingh4u/)](https://stackoverflow.com/story/ashishsingh4u/) 
+<a href="https://stackoverflow.com/users/2017212/ashish-singh"><img src="https://stackoverflow.com/users/flair/2017212.png" width="208" height="58" alt="profile for Ashish Singh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ashish Singh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### Languages
 
