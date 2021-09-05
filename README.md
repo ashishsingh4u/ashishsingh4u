@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am Ashish
 
-[![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://about.me/nileshgule/)](https://about.me/ashishsingh4u/) 
-[![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-white?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/story/ashishsingh4u/)](https://stackoverflow.com/story/nileshgule/) 
+[![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://about.me/ashishsingh4u/)](https://about.me/ashishsingh4u/) 
+[![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-white?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/story/ashishsingh4u/)](https://stackoverflow.com/story/ashishsingh4u/) 
 
 ### Languages
 
