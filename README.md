@@ -10,8 +10,8 @@ I am Ashish
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
-![Go](https://img.shields.io/badge/:badgeContent?style=social&logo=Golang)
-![Rust](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
+![Go](https://img.shields.io/badge/logo-GO-blue?logo=go)
+![Rust](https://img.shields.io/badge/logo-Rust-blue?logo=rust)
 
 ### Technologies
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-000?logo=microsoft-azure)
